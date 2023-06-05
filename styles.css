@@ -1,3 +1,71 @@
-.estudio{
-    color: #2196f3;
+.logg{ 
+    font-family: ralawey;
+    font-style: bold;
+    font-size: 26px;
 }
+.rob{
+    font-family: roboto;
+}
+
+.fond{
+    background-color: #2196f3;
+}
+body:hover{
+    background-color: #2196f3;
+}
+
+.class-one{
+    color: #2196f3; 
+    font-family: Raleway;
+    font-style: Bold;
+    font-size: 26px
+}
+.sub-one{
+font-size: 14px;
+Font-style: Medium
+
+}
+.pont{
+
+    cursor: pointer;
+    
+}
+
+.forx{
+    
+    font-style: black; 
+    Font-size: 44px;
+    text-decoration: underline;
+
+}
+.crr{
+    background-color:#2196f3;
+    text-decoration: underline;
+}
+.resal2 {
+    
+    font-style: bold;
+    font-size: 14px;
+    text-decoration: underline;
+}
+.endi{
+    background-color: #2196f3;
+}
+.orbit{
+    
+    font-style: bold;
+    font-size: 36px;
+}
+.gun{
+    
+    font-style: medium;
+    font-size: 16px;
+}
+.rob{
+    font-family: roboto;
+}
+.bts{
+font-style: regular;
+font-size: 16px;
+}
+
