@@ -1,0 +1,126 @@
+.logo {
+  font-family: ralewey;
+  font-weight: 700;
+  font-size: 26px;
+  color: #2196f3;
+}
+.encabezado {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 14px;
+  color: #212121;
+}
+.lista_menu {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 14px;
+  color: #212121;
+}
+.color_azul {
+  color: #2196f3;
+}
+.lista_menu.color_estudio {
+  color: #2196f3;
+}
+.enlace_contacto_correo {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 14px;
+  color: #2196f3;
+}
+.enlace_contacto_tel {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 14px;
+  color: #757575;
+}
+.seccion_principal.h1 {
+  font-family: roboto;
+  font-weight: 900;
+  font-size: 44px;
+  color: #ffff;
+}
+
+.boton_servicios {
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 16px;
+  color: #ffff;
+  background-color: #2196f3;
+}
+.color_gris {
+  color: #757575;
+}
+.titulo_ventaja {
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 14px;
+  color: #212121;
+}
+
+.descripcion_ventaja {
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 14px;
+  color: #757575;
+}
+
+.encabezado_seccion {
+  font-family: roboto;
+  font: weight 700;
+  font-size: 36px;
+  color: #212121;
+}
+.nombre {
+  font-family: roboto;
+  font: weight 500;
+  font-size: 36px;
+  color: #212121;
+}
+.descripcion_cargo {
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 16px;
+  color: #757575;
+}
+
+footer :hover {
+  background-color: #2196f3;
+}
+
+.boton_servicios {
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 16px;
+  color: #ffff;
+  background-color: dodgerblue;
+}
+
+.boton_servicios:hover {
+  background-color: darkslategray;
+}
+.lista-direcciones {
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 14px;
+  color: blanchedalmond;
+}
+.botones-seccion-uno {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 16px;
+  color: #212121;
+}
+.color-fondo-boton1 {
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 16px;
+  color: #ffff;
+  background-color: dodgerblue;
+}
+.descripcion-imagen {
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 16px;
+  color: #757575;
+}
